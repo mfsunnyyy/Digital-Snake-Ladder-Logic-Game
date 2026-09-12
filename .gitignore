@@ -1,0 +1,16 @@
+*.pdsbak
+*.DSNBAK
+*.LYTBAK
+*.bak
+*.BAK
+*_backup/
+Backup/
+*.workspace
+*.Desktop
+*.SDF
+*.sdf
+*.log
+*.LOG
+*.tmp
+*.drc
+*.DRC
